@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Stooper</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_menu_start">MenuStart</string>
+    <string name="title_activity_wyniki">Wyniki</string>
+    <string name="title_activity_czas_item">Czasy</string>
+    <string name="title_activity_wyswietlanie_wyniku">Czas</string>
+</resources>

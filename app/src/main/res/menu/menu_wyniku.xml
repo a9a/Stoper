@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Dodaj Notatke"
+        android:id="@+id/dodaj"
+        android:orderInCategory="100"/>
+    <item
+        android:title="Usun"
+        android:id="@+id/usun"
+        android:orderInCategory="110"
+        android:icon="@drawable/usun"/>
+</menu>
